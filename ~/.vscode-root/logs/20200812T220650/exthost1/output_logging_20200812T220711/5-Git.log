@@ -1,0 +1,876 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/saroj/Documents/toneTag
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/saroj/Documents/toneTag/src/App.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/saroj/Documents/toneTag/src/App.js
+fatal: your current branch 'master' does not have any commits yet
+> git show --textconv :src/CommonModules/TabView.js
+> git ls-files --stage -- /home/saroj/Documents/toneTag/src/CommonModules/TabView.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/saroj/Documents/toneTag/src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/CommonModules/TabView.js
+> git ls-files --stage -- /home/saroj/Documents/toneTag/src/CommonModules/TabView.js
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/saroj/Documents/toneTag/src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/Main.js
+> git ls-files --stage -- /home/saroj/Documents/toneTag/src/Main.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/saroj/Documents/toneTag/src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Main.js
+> git ls-files --stage -- /home/saroj/Documents/toneTag/src/Main.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/saroj/Documents/toneTag/src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Main.js
+> git ls-files --stage -- /home/saroj/Documents/toneTag/src/Main.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/saroj/Documents/toneTag/src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/CommonModules/TabView.js
+> git ls-files --stage -- /home/saroj/Documents/toneTag/src/CommonModules/TabView.js
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/saroj/Documents/toneTag/src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Main.js
+> git ls-files --stage -- /home/saroj/Documents/toneTag/src/Main.js
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/saroj/Documents/toneTag/src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/CommonModules/TabView.js
+> git ls-files --stage -- /home/saroj/Documents/toneTag/src/CommonModules/TabView.js
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/saroj/Documents/toneTag/src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :package.json
+> git ls-files --stage -- /home/saroj/Documents/toneTag/package.json
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/saroj/Documents/toneTag/src/App.js
+> git show --textconv :src/CommonModules/ProductHorizontal.js
+> git ls-files --stage -- /home/saroj/Documents/toneTag/src/CommonModules/ProductHorizontal.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/CommonModules/Header.js
+> git ls-files --stage -- /home/saroj/Documents/toneTag/src/CommonModules/Header.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/saroj/Documents/toneTag/src/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :README.md
+> git ls-files --stage -- /home/saroj/Documents/toneTag/README.md
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/saroj/Documents/toneTag/README.md
+fatal: your current branch 'master' does not have any commits yet
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/saroj/Documents/toneTag/README.md
+fatal: your current branch 'master' does not have any commits yet
+> git check-ignore -v -z --stdin
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/saroj/Documents/toneTag/.buckconfig
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/saroj/Documents/toneTag/.flowconfig
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/saroj/Documents/toneTag/.gitattributes
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- /home/saroj/Documents/toneTag/.gitignore /home/saroj/Documents/toneTag/.prettierrc.js /home/saroj/Documents/toneTag/.watchmanconfig /home/saroj/Documents/toneTag/README.md /home/saroj/Documents/toneTag/android/app/_BUCK /home/saroj/Documents/toneTag/android/app/build.gradle /home/saroj/Documents/toneTag/android/app/build_defs.bzl /home/saroj/Documents/toneTag/android/app/debug.keystore /home/saroj/Documents/toneTag/android/app/proguard-rules.pro /home/saroj/Documents/toneTag/android/app/src/debug/AndroidManifest.xml /home/saroj/Documents/toneTag/android/app/src/main/AndroidManifest.xml /home/saroj/Documents/toneTag/android/app/src/main/java/com/tonetag/MainActivity.java /home/saroj/Documents/toneTag/android/app/src/main/java/com/tonetag/MainApplication.java /home/saroj/Documents/toneTag/android/app/src/main/res/mipmap-hdpi/ic_launcher.png /home/saroj/Documents/toneTag/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png /home/saroj/Documents/toneTag/android/app/src/main/res/mipmap-mdpi/ic_launcher.png /home/saroj/Documents/toneTag/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png /home/saroj/Documents/toneTag/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png /home/saroj/Documents/toneTag/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png /home/saroj/Documents/toneTag/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png /home/saroj/Documents/toneTag/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png /home/saroj/Documents/toneTag/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png /home/saroj/Documents/toneTag/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png /home/saroj/Documents/toneTag/android/app/src/main/res/values/strings.xml /home/saroj/Documents/toneTag/android/app/src/main/res/values/styles.xml /home/saroj/Documents/toneTag/android/build.gradle /home/saroj/Documents/toneTag/android/gradle.properties /home/saroj/Documents/toneTag/android/gradle/wrapper/gradle-wrapper.jar /home/saroj/Documents/toneTag/android/gradle/wrapper/gradle-wrapper.properties /home/saroj/Documents/toneTag/android/gradlew /home/saroj/Documents/toneTag/android/gradlew.bat /home/saroj/Documents/toneTag/android/settings.gradle /home/saroj/Documents/toneTag/app.json /home/saroj/Documents/toneTag/babel.config.js /home/saroj/Documents/toneTag/config/env.js /home/saroj/Documents/toneTag/config/getHttpsConfig.js /home/saroj/Documents/toneTag/config/jest/cssTransform.js /home/saroj/Documents/toneTag/config/jest/fileTransform.js /home/saroj/Documents/toneTag/config/jest/jest.config.native.js /home/saroj/Documents/toneTag/config/modules.js /home/saroj/Documents/toneTag/config/paths.js /home/saroj/Documents/toneTag/config/pnpTs.js /home/saroj/Documents/toneTag/config/webpack.config.js /home/saroj/Documents/toneTag/config/webpackDevServer.config.js /home/saroj/Documents/toneTag/index.js /home/saroj/Documents/toneTag/ios/Podfile /home/saroj/Documents/toneTag/ios/Podfile.lock /home/saroj/Documents/toneTag/ios/toneTag-tvOS/Info.plist /home/saroj/Documents/toneTag/ios/toneTag-tvOSTests/Info.plist /home/saroj/Documents/toneTag/ios/toneTag.xcodeproj/project.pbxproj /home/saroj/Documents/toneTag/ios/toneTag.xcodeproj/xcshareddata/xcschemes/toneTag-tvOS.xcscheme /home/saroj/Documents/toneTag/ios/toneTag.xcodeproj/xcshareddata/xcschemes/toneTag.xcscheme /home/saroj/Documents/toneTag/ios/toneTag.xcworkspace/contents.xcworkspacedata /home/saroj/Documents/toneTag/ios/toneTag/AppDelegate.h /home/saroj/Documents/toneTag/ios/toneTag/AppDelegate.m /home/saroj/Documents/toneTag/ios/toneTag/Base.lproj/LaunchScreen.xib /home/saroj/Documents/toneTag/ios/toneTag/Images.xcassets/AppIcon.appiconset/Contents.json /home/saroj/Documents/toneTag/ios/toneTag/Images.xcassets/Contents.json /home/saroj/Documents/toneTag/ios/toneTag/Info.plist /home/saroj/Documents/toneTag/ios/toneTag/main.m /home/saroj/Documents/toneTag/ios/toneTagTests/Info.plist /home/saroj/Documents/toneTag/ios/toneTagTests/toneTagTests.m /home/saroj/Documents/toneTag/metro.config.js /home/saroj/Documents/toneTag/package-lock.json /home/saroj/Documents/toneTag/package.json /home/saroj/Documents/toneTag/public/favicon.ico /home/saroj/Documents/toneTag/public/index.html /home/saroj/Documents/toneTag/public/logo192.png /home/saroj/Documents/toneTag/public/logo512.png /home/saroj/Documents/toneTag/public/manifest.json /home/saroj/Documents/toneTag/public/robots.txt /home/saroj/Documents/toneTag/scripts/build.js /home/saroj/Documents/toneTag/scripts/start.js /home/saroj/Documents/toneTag/scripts/test.js /home/saroj/Documents/toneTag/src/App.js /home/saroj/Documents/toneTag/src/App.test.js /home/saroj/Documents/toneTag/src/Assets/Icons/add.png /home/saroj/Documents/toneTag/src/Assets/Icons/backButton.png /home/saroj/Documents/toneTag/src/Assets/Icons/search.png /home/saroj/Documents/toneTag/src/CommonModules/Header.js /home/saroj/Documents/toneTag/src/CommonModules/ProductHorizontal.js /home/saroj/Documents/toneTag/src/HelperMethod/dummyData.js /home/saroj/Documents/toneTag/src/HelperMethod/index.js /home/saroj/Documents/toneTag/src/index.css /home/saroj/Documents/toneTag/src/index.js /home/saroj/Documents/toneTag/src/logo.png /home/saroj/Documents/toneTag/src/serviceWorker.js /home/saroj/Documents/toneTag/src/setupTests.js /home/saroj/Documents/toneTag/yarn.lock /home/saroj/Documents/toneTag/~/.vscode-root/Backups/workspaces.json /home/saroj/Documents/toneTag/~/.vscode-root/Cache/a371c8e10c0b2db6_0 /home/saroj/Documents/toneTag/~/.vscode-root/Cache/a672e8fe37733d61_0 /home/saroj/Documents/toneTag/~/.vscode-root/Cache/c85687354a0e770a_0 /home/saroj/Documents/toneTag/~/.vscode-root/Cache/cbc42e4c979f69f0_0 /home/saroj/Documents/toneTag/~/.vscode-root/Cache/index /home/saroj/Documents/toneTag/~/.vscode-root/Cache/index-dir/the-real-index /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/AvailabilityData-a8b04c800ee33d1aefb952f21049e3b4.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/Base-4c5d4fe2dc4093c0d4b972baaa70c227.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/Channel-78ea03e096175cb51e830e69a7d5ba62.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/Config-3df194716243893ee19690857ce8e9ed.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/Console-a041d1d3c0f38f472806bf3f81efc71e.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/Constants-d25bf35b6174072b37f19541ae2da470.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/Context-79cc1e273d8be562bccefbc790e0bb0a.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/ContextTagKeys-de1b573e6d86120cdce6c2c1027f1f18.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/CorrelationContextManager-da8251227258593c29afd4a7f00c71ca.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/CorrelationIdManager-b3411a863ba8cd82f60b7d4dea180080.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/Data-99dfd48ddddc88cb1bb7546bacc3ba11.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/DataPoint-11dae0b3d503fd29a93edf433146f624.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/DataPointType-4a3d4fc898a6f4afe2e51df752da3199.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/Domain-c1ad967bce419bc3879f4dff2041abec.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/Envelope-a34d20dfc0ed14053f24de2ae4d2e3a8.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/EnvelopeFactory-8016ec24d32d1a88e956732c3fd47ad1.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/EventData-11d3cb4cdfb2eb81782800318969232a.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/ExceptionData-355dac0f775b6c0fb739ab669d511bd3.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/ExceptionDetails-e4910b78e7450e21c0dc8fc2431251e7.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/Exceptions-ce3515b131df2975e128a395ad483526.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/HttpDependencies-6f86248c9aaf2ead3e35a72bbdccef53.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/HttpDependencyParser-cce3b6e92fc71131deb2e576212b2a7d.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/HttpRequestParser-de9ae7dde7a38b9d900cfe5a1510fde3.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/HttpRequests-4eabf0ca5b07c20c8dcd71fe63806043.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/Logging-5770d5197b0cf4f7d5d57a495d74dae1.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/MessageData-d79b5ee6f7b7c080013fb57f08d7b553.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/MetricData-a515aa23153c17d851a485ab3ebfe918.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/NodeClient-c8b8720283e5366683778453de992d75.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/PageViewData-fea5450469e3a6a955bd9e6071cd3f00.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/Performance-0efcb0e268376fb12b1c41ec6e79bfdf.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/RemoteDependencyData-dc4d421bdc084be111d266be52f87626.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/RequestData-317d985ee189cdfa08ec23015efbb509.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/RequestParser-d4ed67e81977989c10d027d39762c377.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/RequestResponseHeaders-951b93e2da90894e41754234f15d7d53.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/SamplingTelemetryProcessor-6ea4bb431e5ea30ac9d867a80b86550d.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/Sender-164e8c64c948a361878eecada5c5ed72.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/SeverityLevel-964e25da1b4ea9da0d91f617086b7f8c.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/StackFrame-537ff530d2c38c67257c1b1c5efea114.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/TelemetryClient-5a39e3c1a2d65e809d3c398d4f7dd982.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/TelemetryType-f1bb2d3cb5bced7ad9fc13e5d47572ba.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/Util-98469b8b2f5d9d29849fbab9c01f98b8.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/applicationinsights-a46ef9bc228c6c006b9f2f611adde35d.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/async-3ed2d20b5e7b0f4a52780e8fd9cba2c7.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/bindings-175d9346667cd5644354fb4413516a11.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/bindings-3df5c8ee749d27d1f935b9a6f1b5cc28.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/bindings-5dbccbe23bea19b219468599f7ee17a4.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/bindings-f4b3550a67bd3264e949c0362a53e41e.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/bracket-fe7d4cd81897babc05f02ff5a1053102.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/bracketPair-0705e2956208ea5ea32263e841615f22.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/clone-1672e8f0e54999958cc4115b8d0af9b2.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/clone-7edc3fe6cc7da7aa04fcdfb20376bb69.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/clone-cd9f636613c123dcaefa23982d54c2df.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/clone-cf55367264b5629f4e714ccb0d26d278.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/codeConverter-5618de8e39bd6d68bcdda477b3e0f524.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/colorMode-7d1080f69259fc50305a0585dd073eb3.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/colors-f17267d03b067f6bbf7d874b761443ca.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/common-9048791b0f23db822840e5c7cc4f80c5.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/common-9ecd22fa7e8f1c95721cfc69ff586466.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/compile-bf7ed87388524c41b61e9884334bcb9e.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/components-fc0a10b3da5af09ce5f697a23d48740c.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/configurationEditingMain-a1ffb34c64652c3d3c5b2b595a893a3d.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/constants-0140026794200047d84b94db797e3af1.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/constants-2b984bbad45801e4bf6a7a71f3fd45af.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/constants-59f42849d693c8e47e6090c9a955cd32.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/constants-99b900b2a99d07eb43fb2a925650dd9d.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/debug-3f3ead0d14338683d53d05124401e5c1.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/documentDecoration-4db303a11dbc01d895cb0a95df8a0753.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/documentDecorationManager-814114b42f1248c62a90ad9362b47df1.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/electron-8505d7cd28fdf51d1c8390dbff09f8e2.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/eventEmitter2-6365bceeeef793567e7f3e703c05b3b0.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/eventEmitter2-71b3d661ea320c0fae4ada1d7d1b626d.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/expand-59af20e266975498d468be84042f54af.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/extension-039df907e47cf05565c6df0f29adb8d4.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/extension-0a6ea477d7565a415b19737e9c669bd0.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/extension-301fc7f84b8df868d55c1e0bdca011b9.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/extension-7d6ea6ac37d2ee2e7d7f56bc8bf7f4bd.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/extension-81e537c7b956946f250d96629c32464b.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/extension-91047540c5f699b90230b4055fbc16ac.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/extension-9385f15dff0431951eac87ebff24ccd0.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/extension-a439c98f11c37f0abff96e214305f358.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/extension-a70912724856ff056d06bf57772f4680.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/extension-aeb473ae05ad8b26bd49748a2351ca16.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/extension-be267cb6a92239de1bdd8d7a63baf399.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/extension-d09fafbb22b48095b7931c54cc1a1699.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/extension-ecb4d6863014818d88fb4b431dae882b.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/extension-fe07641d0496121d6a7cd3ee74d7a1c6.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/extension-fef6de85665b2f781a99d024cf81a755.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/extensionHostProcess-e938e956bfb0c9959093b831ef2b29d0.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/extensionHostProcess.nls-341988fc050179bb26a339f4a6e71ef0.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/foundBracket-311f977b9cee4329aa23653723ee2cd3.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/fsevents-handler-b07ad02b6feb9ded52b48e2caae2283a.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/graceful-fs-ab21b6aa861b1ddc39a1f09feb6d1f44.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/graceful-fs-d9f2b1e0c7cba03bfdfc19a918fcc5a9.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/graceful-fs-e2b508dc1df7f492da2b5b08ddf88a53.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/graceful-fs-eb0c40cdbb0699403436a7707d566f4d.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/gutterIconManager-8b2fdd1c12af60718b9c4b8ac497ed62.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/helpers-e01e77798f5dc7826985f78d2e97777d.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/iconv-lite-umd-bf492919e78cf1a4fdb6dc23e7e4001b.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-0159f7f71868fbdf92a095eee689429e.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-015ad4a305d656d07e269c09b0051402.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-07c91fc45fa8e496163ba837eb216cd6.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-0a115799e21356f24ed0f121f6ec3121.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-0d36b7ba6a04a937370513e0b1ee4b4c.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-10d47c8a404b84d976de2e1db0303b38.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-1566ab1140fda51a29ae23ece8edf686.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-16517a2573e30a3c0b27de348a289779.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-1793a5eaaf545ec07247e8f203038287.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-17fc2610b89f89efa216bad9cd148677.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-18247e1c9ac2dca2a31d02515c9ff5c0.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-1a9a94c1fd1faa0c3cca3633b31625ec.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-1c0b89bd7f7345720a0927e3d66cae1e.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-1e100a96ad36eaab250f91ec24929eb9.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-205d6b6cb2304d9c3b5269b1761a287f.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-20958e03db47b10b272e675f608374c0.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-345f66c0046046b7b6804501caee5dda.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-390e8a310a96076752f772dd0b9207f7.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-40d6371df89b5303e80ce38976dcefe7.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-4291001864b38fb810d30245c0f55d06.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-473eb0057289dd6bf6faf11691594e8a.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-47df40ff18186d4460c0ec4f1859c063.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-4f111e59940a86bdf1f482b7db44a68e.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-4f141f51ab101b8a0c9003e73972a6b6.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-550168a9fd136f248623601a22492a89.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-6529c2a88917b58abe203c710307221f.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-6bd4a88bbb5f4b402643ecd16207fccc.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-6c3de34bc1ad08eef8df7271ac052ffc.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-6cef10b7274956ef208e4955de7b2cc8.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-73896d2e17030b92684cd88bb9e827f6.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-7419eba9c60e4ac85961512d7b1ec521.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-742c33b1b05a85deb6d4e96487132abe.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-74eb0718c7ae52828efe08104608c676.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-74ebe31825aee3545508889ca3f74add.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-7e4e5764649d99983c422cfd896c43ed.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-886d400e72b6de561b4a0f66eccd750a.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-897563aa63f5c3c2ab211631671d85e1.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-8e0def827a03abb5a25a8dc5e584c3e8.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-9235400d2841caf64ae2ceded5e64c15.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-9419daf904615a095ced7ada3d8a17e9.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-9d38325b8cc640e9423f01afafe6c908.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-a07acf9734acc531d443a9839ad09528.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-a56565a1b04964e53940615091bb262e.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-a9f8b63f03177e36730e027553f1b34f.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-b0ebcebc4196d467386c17d2225e56d1.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-b423703962ac4ade22be2310b61e2f01.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-b43597555c05124a1bc2a65e2ee18085.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-b7abd06ad4efdf795dc685715e3e49bb.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-b8f65988ebcfaf2547aac6a5aff961cf.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-bb00a854eeed8ab44b9ac11d8b0d72d4.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-be73f0ff91ea7ba108a1b2b8e9a9479b.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-c0c055388690ac647dce6edc0c80037a.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-c1fc95ff01547f6ca748f6beb4818df1.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-c3d64086599a5c1b1a9c3537a76fe8bc.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-c7191347aa7e0dd2e059749c6ab029f1.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-cc3ace8cf8e61537c734476cac71c006.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-d7804ca55e74873e2e91a7954a0d1353.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-dc69c60f39def75ac886be9b12b1d7b6.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-e13d052f201fe1ce5d007f4c3c4f2c99.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/index-eea82fa8e9999159df93b2cdb937f56d.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/initialization-5e9909d3ac7d80250744f47fbdc01978.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/intellicode-4cd57035b10397fcdbdac243399899bf.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/intellicode-d3d746623411e744c4f0c3dcb6066a0d.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/ip-f454b9812c686e64c9a8f5ba157e0d36.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/is-56501be64ad0afcb723ac9d5cda8ecb0.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/is-e72d2774921cdea2e05c1c1986d7bbdd.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/jsonClientMain-89f671d4d9f3b4b19746a60167c85671.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/keytar-28349a99936256ef9c159da4e2df3c61.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/legacy-streams-a65245d1688b4229c87b4cb674633d6e.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/legacy-streams-c15652b9825eea6acd39e3891b411a05.code
+> git add -A -- /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/legacy-streams-cb344d46b41142b9325cecb7d2c5ae9e.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/legacy-streams-fe124f580eef3d38276437a425d32175.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/lineState-0622faf004d967582a34fa04b8b3d45d.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/main-07545b03ebcb948a5ff07e27f81d89ef.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/main-36a35bb2eb35b07127d23d5c45c1eb2f.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/main-607528d097eabd74f62cc04b544397c2.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/main-68935303dd6cdb2f6bf9008a871a66d7.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/main-a3078321b7f913badd3aa18bc8927e53.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/main-ee6f1bfee894517b055cd5ee53937429.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/main.nls-956ad8c538a19e90932a98f85a89fd06.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/mergeConflictMain-f8a5cabf610cb224dbd7f6b7b1b400a6.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/messageReader-0a21e126670e8ec57ec210ce9b1fb66c.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/messageWriter-3f64876f886e9b74a2b74348adf9c04d.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/messages-3b7bb1f033ac33c018da61e868f33eee.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/multipleIndexes-2d73b9c7659acdb797896c9392661faa.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/node-23aaebbc35bea8653af9c9e491fe9a0c.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/node-29efbc2de44e12b864d934d4fb93378b.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/node-7712ceca0512dbc16f6ad51035262731.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/nodefs-handler-cf93f6747a8b62082bdbc62091f2692d.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/npmMain-0fa99236008ef28ebe55e838e78435e8.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/parse-3f32c2b5428a8ac47ae7997d2eee8f12.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/parse-944d296091de1896ff743099c21a15b9.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/patch-core-1538dcc3a2c977c6b40bb3f32c1903c6.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/patch-core-8a1e1bc77ae2e0817ad11a10fa087daa.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/patch-core-fdbd83bc0b42502cc842a18f60984af2.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/paths-cd1505d524078d653ef4b7fdcc71eb37.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/paths-f674ffb496d5c6d248682c8533d7bdeb.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/picomatch-110b4a0caab43b8a3a540863a2357fdc.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/polyfills-25c24cde05219a4b57e346c71360c8a3.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/polyfills-5dd87b555c8f847a9b86fe82329e8549.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/polyfills-a11e8e839692cbaf67f81170f1c5e365.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/polyfills-cca83a712557f28d09b594ba71df6fce.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/prism-a8c1215ac6bd4315a943c7f5b57849e7.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/prism-clike-ab0f9e902ff32a6ec544d0b8decb31d7.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/prism-css-8cc1f7259cd77ae0e684edf7ce4a7485.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/prism-javascript-55531f938c6097b1bf70be36fc5f1a3a.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/prism-json-8d334c72e8abbb4398da14ce47f016ed.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/prism-markdown-0ab5ae475b7e5fa881b3b27a4c83e4d7.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/prism-markup-6f1301707e00e167e7c0d96669bb5e8c.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/prism-properties-49f2ec4d8423436b59a8b9e932661ed9.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/prism-typescript-fe154dea703bf7d2c8fe5a91c1c246c6.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/processes-9d7478c17684e76019097e2dffe69d6d.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/promise-4e71ebc2a33147e074ffc73bf960b757.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/promisify-9cb68d5a764102ca8db30ee92bd3d1b3.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/protocol-29ca65b648fe7a1ec94230a5d8e042aa.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/protocolCodeLens-e207721cb3f5f469b7dd9c3428602b99.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/protocolCompletionItem-0583b6f66e3863011b1cd4d6fc08f251.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/protocolConverter-07053e6e6652bb795547a206bc76cdc8.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/receivebuffer-f46164c2147b21047a84d23b47095fbf.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/scan-04d23a1443b97e7573f666dbd989d3a8.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/scope-b15d60ef13e9bbc1e37a7884e42f740d.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/searchApp-26a8d69f9c09e5b4d3b609b00b73a391.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/searchApp.nls-7ea6c6cff227fcdec934d10368ac82e0.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/semver-umd-2dc558f83c5146e3bba42956f922d040.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/semver-umd-eadff3a77dcb7fb78a4ef080869b067e.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/settings-f5c11cf5337ad8856f8f7c5daa1b9f1a.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/sharedProcessMain-6a477d31ed7cc912edfc1e90668e15f4.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/sharedProcessMain.nls-9489c7a745a78650ec8ed665280718b7.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/singularIndex-a0e74cf75e61f7cd6844ab0dcd6d4b94.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/smartbuffer-b72e80aa8a3c414943e705d6e29c93cd.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/socksclient-6a388774eb91a64537954a35624201a0.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/sqlite3-6695c45ae01b19f73b09836a79964900.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/sqlite3-816574f98bfb862eda1972ed0e40cd3c.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/stringify-f70f9759cd8598ef6faaa6ab32cecd4a.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/terminal-408d919d11a24790edf04ffd87fe8954.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/terminal-bed81baa08e185a48838c5ca3d5c3064.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/textLine-96077a7c406b3a08323b4b3f1b891247.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/unixTerminal-06f7e290042d783281c1481bceb0e801.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/unixTerminal-da40037673e52d8953b1235162c49ecd.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/util-75263de8446ee6609a665c44a324de46.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/utils-5ec57e0dfc78970ee131f07f2893e10b.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/utils-76471de341aea225e8ee2fd97cfa5caf.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/utils-7f7f05cf26f9d423a8d52d3a207b2fd1.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/utils-c5299336dba28a2b37f3dba8812869c9.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/utils-fc4980e64f009262ec59318b705fed08.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/watcherApp-74f5b2016e57bb3d4915b176d7a83bda.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/watcherApp.nls-c6d3c7d3643150929edaece5b85e161d.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/workbench.desktop.main-f4bc6ce220b8d1eace5d5f18337d764d.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/workbench.desktop.main.nls-1eb26667a0cadd2701f485c06634c86d.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/xterm-2249c23806911766cd22816d7da1d39e.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/xterm-addon-search-d287b4dcae25328daa006c2e9044217c.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedData/17299e413d5590b14ab0340ea477cdd86ff13daf/xterm-addon-unicode11-6e05b3214af81db7dc53c5e0ebf32de0.code /home/saroj/Documents/toneTag/~/.vscode-root/CachedExtensionVSIXs/vscjava.vscode-maven-0.24.0 /home/saroj/Documents/toneTag/~/.vscode-root/CachedExtensions/builtin /home/saroj/Documents/toneTag/~/.vscode-root/CachedExtensions/user /home/saroj/Documents/toneTag/~/.vscode-root/Code Cache/js/index /home/saroj/Documents/toneTag/~/.vscode-root/Code Cache/js/index-dir/the-real-index /home/saroj/Documents/toneTag/~/.vscode-root/Cookies /home/saroj/Documents/toneTag/~/.vscode-root/Cookies-journal /home/saroj/Documents/toneTag/~/.vscode-root/GPUCache/data_0 /home/saroj/Documents/toneTag/~/.vscode-root/GPUCache/data_1 /home/saroj/Documents/toneTag/~/.vscode-root/GPUCache/data_2 /home/saroj/Documents/toneTag/~/.vscode-root/GPUCache/data_3 /home/saroj/Documents/toneTag/~/.vscode-root/GPUCache/index /home/saroj/Documents/toneTag/~/.vscode-root/Network Persistent State /home/saroj/Documents/toneTag/~/.vscode-root/Session Storage/000003.log /home/saroj/Documents/toneTag/~/.vscode-root/Session Storage/CURRENT /home/saroj/Documents/toneTag/~/.vscode-root/Session Storage/LOCK /home/saroj/Documents/toneTag/~/.vscode-root/Session Storage/LOG /home/saroj/Documents/toneTag/~/.vscode-root/Session Storage/LOG.old /home/saroj/Documents/toneTag/~/.vscode-root/Session Storage/MANIFEST-000001 /home/saroj/Documents/toneTag/~/.vscode-root/TransportSecurity /home/saroj/Documents/toneTag/~/.vscode-root/User/globalStorage/state.vscdb /home/saroj/Documents/toneTag/~/.vscode-root/User/globalStorage/state.vscdb.backup /home/saroj/Documents/toneTag/~/.vscode-root/User/settings.json /home/saroj/Documents/toneTag/~/.vscode-root/User/workspaceStorage/d635af7d29486b1d46a6f0dad6bdacf1/state.vscdb /home/saroj/Documents/toneTag/~/.vscode-root/User/workspaceStorage/d635af7d29486b1d46a6f0dad6bdacf1/state.vscdb.backup /home/saroj/Documents/toneTag/~/.vscode-root/User/workspaceStorage/d635af7d29486b1d46a6f0dad6bdacf1/workspace.json /home/saroj/Documents/toneTag/~/.vscode-root/languagepacks.json /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200811T223401/exthost1/exthost.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200811T223401/exthost1/output_logging_20200811T223415/1-GitHub Authentication.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200811T223401/exthost1/output_logging_20200811T223416/2-Microsoft Authentication.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200811T223401/exthost1/output_logging_20200811T223416/3-Git.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200811T223401/exthost1/output_logging_20200811T223445/1-GitHub Authentication.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200811T223401/exthost1/output_logging_20200811T223445/2-Microsoft Authentication.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200811T223401/exthost1/output_logging_20200811T223445/3-Git.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200811T223401/exthost1/output_logging_20200811T224509/4-TypeScript.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200811T223401/exthost1/output_logging_20200811T224511/5-VS IntelliCode.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200811T223401/exthost1/output_logging_20200811T224511/6-SonarLint.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200811T223401/exthost1/output_logging_20200811T224511/7-JSLint Linter.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200811T223401/main.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200811T223401/output_1_20200811T223410/extensions.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200811T223401/output_1_20200811T223410/tasks.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200811T223401/output_1_20200811T223444/extensions.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200811T223401/output_1_20200811T223444/tasks.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200811T223401/renderer1.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200811T223401/sharedprocess.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200811T223401/telemetry.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200811T223401/userDataSync.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T184028/exthost1/exthost.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T184028/exthost1/output_logging_20200812T184044/1-VS IntelliCode.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T184028/exthost1/output_logging_20200812T184044/5-GitHub Authentication.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T184028/exthost1/output_logging_20200812T184045/2-Microsoft Authentication.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T184028/exthost1/output_logging_20200812T184045/3-TypeScript.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T184028/exthost1/output_logging_20200812T184045/4-Git.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T184028/exthost1/output_logging_20200812T184045/6-JSLint Linter.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T184028/exthost1/output_logging_20200812T184052/7-SonarLint.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T184028/exthost1/output_logging_20200812T184447/8-Maven for Java.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T184028/main.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T184028/output_1_20200812T184035/extensions.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T184028/output_1_20200812T184035/tasks.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T184028/renderer1.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T184028/sharedprocess.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T184028/telemetry.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T184028/userDataSync.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T220650/exthost1/exthost.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T220650/exthost1/output_logging_20200812T220710/1-VS IntelliCode.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T220650/exthost1/output_logging_20200812T220710/2-GitHub Authentication.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T220650/exthost1/output_logging_20200812T220710/3-Microsoft Authentication.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T220650/exthost1/output_logging_20200812T220711/4-TypeScript.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T220650/exthost1/output_logging_20200812T220711/5-Git.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T220650/exthost1/output_logging_20200812T220711/6-JSLint Linter.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T220650/exthost1/output_logging_20200812T220715/7-SonarLint.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T220650/main.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T220650/output_1_20200812T220701/extensions.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T220650/output_1_20200812T220701/tasks.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T220650/renderer1.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T220650/sharedprocess.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T220650/telemetry.log /home/saroj/Documents/toneTag/~/.vscode-root/logs/20200812T220650/userDataSync.log /home/saroj/Documents/toneTag/~/.vscode-root/machineid /home/saroj/Documents/toneTag/~/.vscode-root/rapid_render.json /home/saroj/Documents/toneTag/~/.vscode-root/storage.json

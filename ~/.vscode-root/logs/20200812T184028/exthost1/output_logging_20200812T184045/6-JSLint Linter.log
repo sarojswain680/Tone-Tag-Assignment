@@ -1,0 +1,12 @@
+{
+  LintStream: [Function: LintStream_constructor],
+  linter: {
+    merge: [Function: merge],
+    preprocessScript: [Function: preprocessScript],
+    doLint: [Function]
+  },
+  runMain: [Function],
+  setConsole: [Function],
+  looksLikeFileName: [Function: looksLikeFileName],
+  load: [Function]
+}

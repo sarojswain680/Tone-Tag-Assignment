@@ -1,0 +1,9 @@
+[2020-08-11 22:34:08.423] [sharedprocess] [info] main {"machineId":"d6f54e44c2362cff3b1ab119727a0186925d69b62f78b722a2a23138279531da","windowId":2}
+[2020-08-11 22:34:08.562] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/saroj/Documents/toneTag/~/.vscode-root/User/snippets'
+[2020-08-11 22:34:17.211] [sharedprocess] [info] Installing extension: vscjava.vscode-maven
+[2020-08-11 22:34:31.277] [sharedprocess] [info] Downloaded extension: vscjava.vscode-maven /home/saroj/Documents/toneTag/~/.vscode-root/CachedExtensionVSIXs/vscjava.vscode-maven-0.24.0
+[2020-08-11 22:34:32.003] [sharedprocess] [info] Extracted extension to /home/saroj/.vscode/extensions/.vscjava.vscode-maven-0.24.0: vscjava.vscode-maven
+[2020-08-11 22:34:32.003] [sharedprocess] [info] Renamed to /home/saroj/.vscode/extensions/vscjava.vscode-maven-0.24.0
+[2020-08-11 22:34:32.007] [sharedprocess] [info] Installation completed. vscjava.vscode-maven
+[2020-08-11 22:34:32.177] [sharedprocess] [info] Extensions installed successfully: vscjava.vscode-maven
+[2020-08-11 22:34:48.462] [sharedprocess] [info] Starting to clean up unused language packs.

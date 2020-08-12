@@ -1,0 +1,74 @@
+[2020-08-12 22:36:06.277] [renderer1] [error] Failed to execute git
+[2020-08-12 23:02:01.686] [renderer1] [error] <semantic> TypeScript Server Error (3.9.6)
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isDeclarationWithTypeParameterChildren'.
+Error: Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isDeclarationWithTypeParameterChildren'.
+    at Object.cast (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1387:25)
+    at deleteTypeParameters (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:131658:65)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:131571:100
+    at Function.ChangeTracker.with (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:126221:17)
+    at Object.getCodeActions (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:131571:68)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127392:77
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:465:25)
+    at Object.getFixes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127392:23)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:139204:35
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:465:25)
+    at Proxy.getCodeFixesAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:139202:23)
+    at IOSession.Session.getCodeFixes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149303:64)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:148040:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149553:88
+    at IOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149544:28)
+    at IOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149553:33)
+    at IOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149577:35)
+    at Interface.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150893:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17): Error: <semantic> TypeScript Server Error (3.9.6)
+Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isDeclarationWithTypeParameterChildren'.
+Error: Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isDeclarationWithTypeParameterChildren'.
+    at Object.cast (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:1387:25)
+    at deleteTypeParameters (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:131658:65)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:131571:100
+    at Function.ChangeTracker.with (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:126221:17)
+    at Object.getCodeActions (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:131571:68)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127392:77
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:465:25)
+    at Object.getFixes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:127392:23)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:139204:35
+    at Object.flatMap (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:465:25)
+    at Proxy.getCodeFixesAtPosition (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:139202:23)
+    at IOSession.Session.getCodeFixes (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149303:64)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:148040:61)
+    at /usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149553:88
+    at IOSession.Session.executeWithRequestId (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149544:28)
+    at IOSession.Session.executeCommand (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149553:33)
+    at IOSession.Session.onMessage (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:149577:35)
+    at Interface.<anonymous> (/usr/share/code/resources/app/extensions/node_modules/typescript/lib/tsserver.js:150893:27)
+    at Interface.emit (events.js:203:13)
+    at Interface._onLine (readline.js:316:10)
+    at Interface._normalWrite (readline.js:461:12)
+    at Socket.ondata (readline.js:172:10)
+    at Socket.emit (events.js:203:13)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:276:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:55161)
+	at h.dispatchResponse (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:227777)
+	at h.dispatchMessage (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226697)
+	at /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:226173
+	at l.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:45:801)
+	at l.onLengthData (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:235493)
+	at Socket.<anonymous> (/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:235141)
+	at Socket.emit (events.js:203:13)
+	at addChunk (_stream_readable.js:295:12)
+	at readableAddChunk (_stream_readable.js:276:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-08-12 23:12:33.580] [renderer1] [error] Failed to execute git
+[2020-08-12 23:12:39.643] [renderer1] [error] Failed to execute git
